@@ -1,0 +1,19 @@
+img {
+    height: 50px;
+    width: 50px;
+}
+.top{
+    height: 50px;
+}
+.bottom{
+    height: 100px;
+}
+#player-score,
+#ia-score{
+    color: gray;
+    font-size: 20px;
+}
+.title{
+    font-size: 35px;
+    text-align: center;
+}
